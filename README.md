@@ -1,6 +1,6 @@
 # Introduction
 This is a project for machine learning **class desgin**(in another word, **homework**).
-Input an image of a human head, classifiers could predict where the human head is looking at(left, right, up and down).
+Input an image of a human head, classifiers could predict where the human head is looking at(left, right, up and straight).
 
 There are three classifiers for this task:<br>
 * **naive design based on cnn (acc: 96.8%);**<br>
