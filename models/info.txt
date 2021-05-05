@@ -1,0 +1,3 @@
+This directory contains classifier models.
+
+The parts related to HRNet is from: https://github.com/HRNet/HRNet-Image-Classification.
