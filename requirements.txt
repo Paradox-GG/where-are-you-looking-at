@@ -1,0 +1,5 @@
+pytorch
+cv2
+matplotlib
+tqdm
+yacs
