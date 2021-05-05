@@ -1,12 +1,12 @@
 # Introduction
 This is a project for machine learning **class desgin**(in another word, **homework**).
 Input an image of a human head, classifiers could predict where the human head is looking at(left, right, up and straight).
-For example, this man is looking at his right:
-![figure_look_right](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/figure_look_right.pgm)
-and this man is looking straight:
-![figure_look_straight](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/figure_look_up.pgm)
+For example, this man is looking at his right:<br>
+![figure_look_right](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/figure_look_right.png)
+<br>and this man is looking straight:<br>
+![figure_look_up](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/figure_look_up.png)
 
-There are three classifiers for this task:<br>
+<br>There are three classifiers for this task:<br>
 * **naive design based on cnn (acc: 96.8%);**<br>
 * **naive design based on rnn (acc: 78.4%);**<br>
 * **fine tune hrnet18 (acc: 93.6%).**<br>
