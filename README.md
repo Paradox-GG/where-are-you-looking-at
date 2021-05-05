@@ -1,6 +1,6 @@
 # Introduction
 This is a project for machine learning **class desgin**(in another word, **homework**).
-Input an image of a human head, classifiers could predict where the human head is looking at(left, right, up and straight).
+Input an image of a human head, classifiers could predict where the human head is looking at(left, right, up and straight).<br>
 <br>For example, this man is looking at the right side:<br>
 ![figure_look_right](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/figure_look_right.png)
 <br>and this man is looking up:<br>
