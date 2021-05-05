@@ -14,7 +14,7 @@ and processed with dataset/data_preprocessing.py
 # Train
     python train_net.py
 
-# Eval
+# Evaluation
     python eval_net.py
 
 # Acknowledgement
