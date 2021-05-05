@@ -1,0 +1,2 @@
+The configs for hrnet18.
+There are some adjustments to realize fine-tuning.
