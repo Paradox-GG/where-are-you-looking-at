@@ -12,7 +12,7 @@ There are three classifiers for this task:<br>
 * **fine tune hrnet18 (acc: 93.6%).**<br>
 
 # Dataset
-Dataset downloaded from: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces_4.tar.gz,\<br>
+Dataset downloaded from: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces_4.tar.gz,<br>
 and processed with dataset/data_preprocessing.py
 
 # Train
