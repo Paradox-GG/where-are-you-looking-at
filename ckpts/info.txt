@@ -1,4 +1,4 @@
-folder to place the checkpoints.
+Folder to place the checkpoints.
 Only the naive cnn model and rnn model are provided here due to the size of the files.
 
 The pretrain model of HRnet is download from: https://pan.baidu.com/s/1snP_gTz50pJp2g07anVIEA
