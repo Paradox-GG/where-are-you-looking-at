@@ -22,4 +22,4 @@ and processed with dataset/data_preprocessing.py
     python eval_net.py
 
 # Acknowledgement
-The parts which are related to "hrnet" heavly rely on https://github.com/HRNet/HRNet-Image-Classification
+The parts which are related to "hrnet" heavly rely on https://github.com/HRNet/HRNet-Image-Classification.
