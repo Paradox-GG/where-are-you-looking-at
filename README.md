@@ -8,7 +8,7 @@ Input an image of a human head, classifiers could predict where the human head i
 
 There are three classifiers for this task:<br>
 * **naive design based on cnn (acc: 96.8%);**<br>
-* **naive design based on rnn (acc: 78.4%);**<br>
+* **naive design based on rnn (acc: 86.4%);**<br>
 * **fine tune hrnet18 (acc: 93.6%).**<br>
 
 # Dataset
