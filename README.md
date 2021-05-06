@@ -1,5 +1,5 @@
 # Introduction
-This is a project for machine learning **class desgin**(in another word, **homework**).
+This is a project for machine learning **class design**(in another word, **homework**).
 Input an image of a human head, classifiers could predict where the human head is looking at(left, right, up and straight).<br>
 <br>For example, this man is looking at the right side:<br>
 ![figure_look_right](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/figure_look_right.png)
@@ -13,7 +13,7 @@ There are three classifiers for this task:<br>
 
 # Dataset
 Dataset downloaded from: https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/faces_4.tar.gz,<br>
-and processed with dataset/data_preprocessing.py
+and processed with ![dataset/data_preprocessing.py](https://github.com/Paradox-GG/where-are-you-looking-at/blob/main/dataset/data_preprocessing.py)
 
 # Train
     python train_net.py
